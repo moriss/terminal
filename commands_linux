@@ -1,6 +1,12 @@
 Terminal Commands
 Ubuntu
 
+I'v started adding newest on top (between the "@"
+@@@@@@@@
+To open a file via terminal but continue using the same terminal, you open the file in the background by appending the comand with '&'
+EG: gedit <filename.c> &
+@@@@@@@@
+
 Gnome is the open source desktop environment you are using.
 
 GIT
